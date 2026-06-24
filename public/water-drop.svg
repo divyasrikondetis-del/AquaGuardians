@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="waterGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2196F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M50 10 C30 40, 15 65, 25 80 C35 95, 65 95, 75 80 C85 65, 70 40, 50 10Z" 
+        fill="url(#waterGrad)"/>
+  <ellipse cx="40" cy="40" rx="8" ry="12" fill="white" opacity="0.3" transform="rotate(-30, 40, 40)"/>
+</svg>
