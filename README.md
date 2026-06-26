@@ -1,8 +1,4 @@
 
-The app will be available at `http://localhost:8080`
-
----
-
 ## 📱 Pages & Features
 
 | Page | Description |
